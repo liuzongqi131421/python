@@ -1,0 +1,8 @@
+print("请输入一个字符串")
+str1=input()
+print("请输入一个字符串")
+str2=input()
+print(str1+str2)
+print("请输入一个数字")
+num=input()
+print(int(num))
